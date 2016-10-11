@@ -1,0 +1,40 @@
+* {
+  margin: auto;
+}
+
+.col {
+  height: 20vh;
+  width: 100%;
+  display: block;
+}
+ #col1 {
+  background-color: #4A90E2;
+  position: absolute;
+  height: 15vh;
+  width: 15vh;
+  margin-left: 20px;
+  margin-top: 15px;
+
+}
+#col2 {
+  background-color: #D8D8D8;
+}
+#col3 {
+  height: 40vh;
+  padding: 30px 20px 30px 20px;
+
+}
+#col4 {
+  background-color: #4A90E2;
+
+}
+#col5 {
+  background-color: #50E3C2;
+
+}
+#col6 {
+  background-color: #B8E986;
+}
+#col7 {
+  background-color: yellow;
+}
