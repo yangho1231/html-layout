@@ -1,0 +1,22 @@
+* {
+  margin: auto;
+}
+.col {
+  height: 80vh;
+  width: 33%;
+  float: left;
+}
+#col1 {
+  background-color: rgb(20, 116, 217);
+}
+#col2 {
+  background-color: rgb(95, 217, 224);
+}
+#col3 {
+  background-color: rgb(115, 204, 79);
+  height: 60vh;
+}
+#col4 {
+  background-color: red;
+  height: 20vh;
+}
